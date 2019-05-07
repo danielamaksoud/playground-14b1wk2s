@@ -3,7 +3,11 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+temperatura_em_farenheit = 392;
+
+temperatura_em_graus_celsius = (temperatura_em_farenheit-32)/1.8;
+
+print("A temperatura em graus Celsius e igual a", temperatura_em_graus_celsius);
 ```
 
 # Advanced usage
